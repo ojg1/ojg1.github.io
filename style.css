@@ -2,6 +2,16 @@
 
 body, html{
     overflow-y: scroll;
+    background: #2a2a9b;
+    background: linear-gradient(132deg, rgba(42, 42, 155, 1) 0%, rgba(87, 104, 199, 1) 50%, rgba(237, 83, 145, 1) 100%);
+}
+
+.TopBar{
+    margin-left:auto;
+    margin-right: auto;
+    height:10%;
+    border-radius: 20px;
+    padding: 3px 3px 3px 3px;
 }
 
 .Title{
