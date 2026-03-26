@@ -6,25 +6,30 @@ body, html{
     background: linear-gradient(132deg, rgba(42, 42, 155, 1) 0%, rgba(87, 104, 199, 1) 50%, rgba(237, 83, 145, 1) 100%);
 }
 
-.TopBar{
+
+p h1 h2 h3 h4 sup sub{
+    font-family:"Roboto mono", monospace;
+}
+
+.TopBar .Description{
     margin-left:auto;
     margin-right: auto;
     height:10%;
     border-radius: 20px;
     padding: 3px 3px 3px 3px;
+    background-color: rgb(255,255,255);
 }
 
 .Title{
     width: 100%;
 }
 
-p h1{
-    font-family:"Roboto-Mono", monospace;
-}
+/* classes */
 
 #Spacer{
     height:180px;
     width: 100%;
     background-color:blue;
+    display:block;
 }
 
