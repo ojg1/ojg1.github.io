@@ -11,7 +11,7 @@ p, h1, h2, h3, h4, sup, sub{
     font-family:"Roboto Mono", monospace;
 }
 
-.TopBar .Description{
+#TopBar #Description{
     margin-left:auto;
     margin-right: auto;
     height:10%;
@@ -20,7 +20,7 @@ p, h1, h2, h3, h4, sup, sub{
     background-color: rgb(255,255,255);
 }
 
-.Title{
+#Title{
     width: 100%;
 }
 
@@ -29,7 +29,7 @@ p, h1, h2, h3, h4, sup, sub{
 #Spacer{
     height:180px;
     width: 100%;
-    background-color:blue;
+    background-color:transparent;
     display:block;
 }
 
