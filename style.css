@@ -7,7 +7,7 @@ body, html{
 }
 
 
-p h1 h2 h3 h4 sup sub{
+p, h1, h2, h3, h4, sup, sub{
     font-family:"Roboto Mono", monospace;
 }
 
